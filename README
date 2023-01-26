@@ -18,9 +18,9 @@ les 12 nageurs et leur performance
 11      93     85       116   98.
         
 
-le choix des 5 nageurs parmi 12  dont la somme des temps pour les 4 nages est la plus petite
-mais je sais plus si c'était bien le probleme...
+le choix de 5 nageurs parmi 12  dont la somme des temps pour les 4 nages est la plus petite
 
+mais je sais plus si c'était bien le probleme... ( peut-être que chaque nageur ne nage qu'une fois ??)
 
 
 natation.py:24: [0000ms] v.name = Choice_0, v.varValue = 1.0.
