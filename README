@@ -1,0 +1,39 @@
+
+'''
+
+les 12 nageurs et leur performance
+
+    brasse  crawl  papillon  dos
+0       97     93       108  107
+1      108    106       111  107
+2      109     85       100  101
+3      113     94       117  106
+4      111    104       105   89
+5      101    103       110  110
+6      110    107       102  108
+7      105    116        89  103
+8      108     92        85  108
+9      107     93       108   94
+10     116     98        97  101
+11      93     85       116   98.
+        
+
+le choix des 5 nageurs parmi 12  dont la somme des temps pour les 4 nages est la plus petite
+mais je sais plus si c'était bien le probleme...
+
+
+
+natation.py:24: [0000ms] v.name = Choice_0, v.varValue = 1.0.
+natation.py:24: [0000/0000ms] v.name = Choice_1, v.varValue = 0.0.
+natation.py:24: [0000/0000ms] v.name = Choice_10, v.varValue = 0.0.
+natation.py:24: [0000/0000ms] v.name = Choice_11, v.varValue = 1.0.
+natation.py:24: [0000/0000ms] v.name = Choice_2, v.varValue = 1.0.
+natation.py:24: [0000/0000ms] v.name = Choice_3, v.varValue = 0.0.
+natation.py:24: [0000/0000ms] v.name = Choice_4, v.varValue = 0.0.
+natation.py:24: [0000/0000ms] v.name = Choice_5, v.varValue = 0.0.
+natation.py:24: [0000/0000ms] v.name = Choice_6, v.varValue = 0.0.
+natation.py:24: [0000/0000ms] v.name = Choice_7, v.varValue = 0.0.
+natation.py:24: [0000/0000ms] v.name = Choice_8, v.varValue = 1.0.
+natation.py:24: [0000/0000ms] v.name = Choice_9, v.varValue = 1.0.
+
+'''
