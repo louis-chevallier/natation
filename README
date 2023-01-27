@@ -22,6 +22,9 @@ voici le choix de 5 nageurs parmi 12  dont la somme des temps pour les 4 nages e
 
 mais je sais plus si c'était bien le probleme... ( peut-être que chaque nageur ne nage qu'une fois ??)
 
+en fait, ca doit pas être le probleme, 
+défini comme ça , la solution triviale consiste à faire la somme par rangée et choisir les 5 nageurs qui ont la plus petite somme
+Pulp, trouve facilement cette solution 
 
 natation.py:24: [0000ms] v.name = Choice_0, v.varValue = 1.0.
 natation.py:24: [0000/0000ms] v.name = Choice_1, v.varValue = 0.0.
